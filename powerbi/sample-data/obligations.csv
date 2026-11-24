@@ -1,0 +1,7 @@
+company_code,obligation_id,description_en,description_ar,legal_reference,owner_seat,due_date,status
+CO-001,OB-001,Hold ordinary General Assembly to approve financial statements,عقد الجمعية العامة العادية لاعتماد القوائم المالية,Companies Law 159/1981,CLO,2027-04-30,Open
+CO-001,OB-002,Approve delegation of authority matrix,اعتماد مصفوفة تفويض الصلاحيات,Board resolution,CEO,2027-01-31,Open
+CO-001,OB-003,Submit annual tax return,تقديم الإقرار الضريبي السنوي,Income Tax Law 91/2005,CFO,2027-04-30,Open
+CO-002,OB-004,Approve internal work regulation and penalties list,اعتماد لائحة العمل الداخلية ولائحة الجزاءات,Labour Law 14/2025,CHRO,2026-12-31,In progress
+CO-002,OB-005,Assess personal data processing against PDPL,تقييم معالجة البيانات الشخصية وفق قانون حماية البيانات,Law 151/2020,CIO,2027-02-28,Open
+CO-003,OB-006,Adopt related-party transactions policy,اعتماد سياسة تعاملات الأطراف ذات العلاقة,Governance rules,CCO,2026-11-15,Done

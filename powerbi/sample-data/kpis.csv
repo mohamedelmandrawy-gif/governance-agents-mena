@@ -1,0 +1,9 @@
+company_code,period,kpi_name,owner_seat,target,actual
+CO-001,2026-Q3,Board meetings held,CEO,4,2
+CO-001,2026-Q3,Policies approved,CCO,10,4
+CO-001,2026-Q3,Cash conversion cycle (days),CFO,60,85
+CO-002,2026-Q3,Board meetings held,CEO,4,3
+CO-002,2026-Q3,Job descriptions approved,CHRO,40,22
+CO-002,2026-Q3,SOPs documented,COO,15,9
+CO-003,2026-Q3,Board meetings held,CEO,4,4
+CO-003,2026-Q3,Compliance training completion %,CCO,100,92
